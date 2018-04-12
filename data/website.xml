@@ -2,14 +2,11 @@
 <website theme='1'>
    <title>Website Name</title>
    <style>
-#title {
-   white-space: nowrap;
-}
 h3[id] {color:#2196F3;}
 li span {color:#4CAF50;}
    </style>
    <page type='page' language='EN'>
-      <name>Home</name>
+      <name> Home</name>
       <image>preview.png</image>
       <contents>
 &lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;Welcome to my Homepage&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;id est laborum.&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;
@@ -59,7 +56,7 @@ li span {color:#4CAF50;}
       </contents>
    </page>
    <page type='comments' language='EN'>
-      <name>Comments</name>
+      <name> Comments</name>
       <image></image>
       <contents>
 

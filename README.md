@@ -1,1 +1,1 @@
-This is a responsive XSLT theme using Bootstrap.  Included is PHP source code needed to transform website file on the server.  To create a website file for a website, you can modify the website file included here, or you can [click here](http://emrickj.github.io/gwc) to create a new one.
+This is a responsive XSLT theme using Bootstrap 4.  Included is PHP source code needed to transform website file on the server.  To create a website file for a website, you can modify the website file included here, or you can [click here](http://emrickj.github.io/gwc) to create a new one.
